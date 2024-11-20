@@ -4,7 +4,7 @@ after 6 hours of looking around at other existing repos and writing sloppy code 
 
 ### Description:
 GDTRI is a simple and sloppy python script to interface GPredict with a DISH Tailgater device.
-This script currently works and has been tested on a DISH Tailgater 3 under linux. 
+This script currently works and has been tested on a DISH Tailgater 3 under linux and under windows 11. 
 This project was inspired by https://github.com/saveitforparts/Tailgater-Microwave-Imaging and uses some of the code from that repo.
 If anybody wants to clean up my code feel free to do so and tell me about it at aanzell00@gmail.com and also feel free to tell me about how it works with other DISH Tailgater versions if you have one of a different model than mine.
 
